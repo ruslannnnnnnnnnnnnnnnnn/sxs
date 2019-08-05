@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type='text/xsl' href='NSIXML.xsl'?>
+<package>
+	<body version="НСИ 1.62" protocol="full" begin_date="01.11.2017" telcreator="4852321087" creation_date="01.11.2017">
+		<LPUs name="1.Справочник поставщиков (МО)">
+			<LPU code="C1" kpp="761301001" inn="7613000940" ogrn="1027601272621" name="государственное учреждение здравоохранения Ярославской области Большесельская центральная районная больница" podush_fin="1" med_help_sign="2" level_p="1" level_f="1" short_name="ГУЗ ЯО Большесельская ЦРБ" post_id="1" fio="Яценко Андрей Васильевич" fio_dat="А.В. Яценко" register_number="760013"/>
+			<LPU code="C2" kpp="761401001" inn="7614003091" ogrn="1027601072157" name="государственное бюджетное учреждение здравоохранения Ярославской области Борисоглебская центральная районная больница" podush_fin="1" med_help_sign="2" level_p="1" level_f="1" short_name="ГБУЗ ЯО Борисоглебская ЦРБ" post_id="1" fio="Ерёмин Николай Николаевич" fio_dat="Н.Н.Ерёмину " register_number="760014"/>
+			<LPU code="C3" kpp="761501001" inn="7615000939" ogrn="1027601492456" name="государственное учреждение здравоохранения Ярославской области &quot;Брейтовская центральная районная больница&quot;" podush_fin="1" med_help_sign="2" level_p="1" level_f="1" short_name="ГУЗ ЯО &quot;Брейтовская ЦРБ&quot;" post_id="1" fio="Крепкова Юлия Николаевна" fio_dat="Ю.Н.Крепковой" register_number="760015"/>
+			<LPU code="C4" kpp="761601001" inn="7616001406" ogrn="1027601069715" name="государственное учреждение здравоохранения Ярославской области Гаврилов-Ямская центральная районная больница" podush_fin="1" med_help_sign="2" level_p="1" level_f="1" short_name="ГУЗ ЯО Гаврилов-Ямская ЦРБ" post_id="1" fio="Шелкошвеев Константин Геннадьевич" fio_dat="К.Г.Шелкошвееву " register_number="760001"/>
+			<LPU code="C5" kpp="761701001" inn="7617001367" ogrn="1027601461007" name="государственное бюджетное учреждение здравоохранения Ярославской области Даниловская центральная районная больница" podush_fin="1" med_help_sign="1" level_p="2" level_f="2" short_name="ГБУЗ ЯО Даниловская ЦРБ" post_id="1" fio="Смирнова Валентина Анатольевна" fio_dat="Смирновой В.А." register_number="760016"/>
+			<LPU code="C6" kpp="761801001" inn="7618001056" ogrn="1027601461260" name="государственное бюджетное учреждение здравоохранения Ярославской области &quot;Любимская центральная районная больница&quot;" podush_fin="1" med_help_sign="2" level_p="1" level_f="1" short_name="ГБУЗ ЯО &quot;Любимская центральная районная больница&quot;" post_id="1" fio="Якунина Татьяна Алексеевна" fio_dat="Т.А.Якуниной " register_number="760017"/>
+			<LPU code="C7" kpp="761901001" inn="7619000464" ogrn="1027601491752" name="государственное учреждение здравоохранения Ярославской области &quot;Центральная районная больница им. Д.Л. Соколова&quot;" podush_fin="1" med_help_sign="1" level_p="1" level_f="1" short_name="ГУЗ ЯО &quot;ЦРБ им. Д.Л. Соколова&quot;" post_id="1" fio="Сычиков Сергей Викторович" fio_dat="С.В. Сычикову" register_number="760018"/>
+			<LPU code="C8" kpp="762001001" inn="7620001529" ogrn="1027601494436" name="государственное учреждение здравоохранения Ярославской области Некоузская центральная районная больница" podush_fin="1" med_help_sign="1" level_p="1" level_f="1" short_name="ГУЗ ЯО Некоузская ЦРБ" post_id="1" fio="Лебедева Лидия Анатольевна" fio_dat="Л.А.Лебедевой " register_number="760002"/>
+			<LPU code="C9" kpp="762101001" inn="7621001426" ogrn="1027601604601" name="государственное бюджетное учреждение здравоохранения  Ярославской области &quot;Некрасовская центральная районная больница&quot;" podush_fin="1" med_help_sign="2" level_p="1" level_f="1" short_name="ГБУЗ ЯО &quot;Некрасовская ЦРБ&quot;" post_id="1" fio="Багарский Константин Константинович" fio_dat="К.К. Багарскому" register_number="760003"/>
+			<LPU code="CA" kpp="762301001" inn="7623000682" ogrn="1027601460468" name="государственное учреждение здравоохранения Ярославской области Пречистенская центральная районная больница" podush_fin="1" med_help_sign="1" level_p="2" level_f="2" short_name="ГУЗ ЯО Пречистенская ЦРБ" post_id="1" fio="Тепляков Александр Александрович" fio_dat="А.А.Теплякову" register_number="760019"/>
+			<LPU code="CB" kpp="760801001" inn="7608003784" ogrn="1027601054865" name="государственное бюджетное учреждение здравоохранения Ярославской области &quot;Переславская центральная районная больница&quot;" podush_fin="1" med_help_sign="1" level_p="2" level_f="2" short_name="ГБУЗ ЯО &quot;Переславская центральная районная больница&quot;" post_id="1" fio="И.о. Пашкова Марина Игоревна" fio_dat="М.И. Пашковой" register_number="760020"/>
+			<LPU code="CE" kpp="762401001" inn="7624001921" ogrn="1027601132239" name="государственное учреждение здравоохранения Ярославской области Пошехонская центральная районная больница" podush_fin="1" med_help_sign="2" level_p="1" level_f="1" short_name="ГУЗ ЯО Пошехонская ЦРБ" post_id="1" fio="Бритвенков Андрей Владимирович" fio_dat="А.В. Бритвенкову" register_number="760023"/>
+			<LPU code="CF" kpp="760901001" inn="7609028319" ogrn="1147609001209" name="государственное бюджетное учреждение здравоохранения Ярославской области &quot;Ростовская центральная районная больница&quot;" podush_fin="1" med_help_sign="1" level_p="2" level_f="2" short_name="ГБУЗ ЯО &quot;Ростовская ЦРБ&quot;" post_id="1" fio="Овечкина Наталья Александровна" fio_dat="Н.А.Овечкиной " register_number="760136"/>
+			<LPU code="CG" kpp="761001001" inn="7610015530" ogrn="1027601112120" name="государственное учреждение здравоохранения Ярославской области &quot;Рыбинская центральная районная поликлиника&quot;" podush_fin="1" med_help_sign="1" level_p="1" level_f="1" short_name="ГУЗ ЯО &quot;Рыбинская ЦРП&quot;" post_id="1" fio="Назимов Алексей Викторович" fio_dat="А.В.Назимову " register_number="760004"/>
+		</LPUs>
+		<fed_department_mo name="1*.Справочник подразделений МО">
+			<department_mo register_number="760001" IDOTD="760001100281" PROF="0028" level="1.2" name="Инфекционное"/>
+			<department_mo register_number="760001" IDOTD="760001100531" PROF="0053" level="1.2" name="Неврологическое"/>
+			<department_mo register_number="760001" IDOTD="760001100681" PROF="0068" level="1.2" name="Педиатрическое"/>
+			<department_mo register_number="760001" IDOTD="760001100971" PROF="0097" level="1.2" name="Терапевтическое"/>
+			<department_mo register_number="760001" IDOTD="760001101121" PROF="0112" level="1.2" name="Хирургическое"/>
+			<department_mo register_number="760001" IDOTD="760001101361" PROF="0136" level="1.2" name="Гинекологическое"/>
+			<department_mo register_number="760001" IDOTD="760001200531" PROF="0053" level="1" name="Неврологическое"/>
+			<department_mo register_number="760001" IDOTD="760001200971" PROF="0097" level="1" name="Терапевтическое"/>
+			<department_mo register_number="760001" IDOTD="760001201361" PROF="0136" level="1" name="Гинекологическое"/>
+			<department_mo register_number="760002" IDOTD="760002100531" PROF="0053" level="1.2" name="Неврологическое"/>
+			<department_mo register_number="760002" IDOTD="760002100681" PROF="0068" level="1.2" name="Педиатрическое"/>
+			<department_mo register_number="760002" IDOTD="760002100971" PROF="0097" level="1.2" name="Терапевтическое"/>
+			<department_mo register_number="760002" IDOTD="760002101121" PROF="0112" level="1.2" name="Хирургическое"/>
+			<department_mo register_number="760002" IDOTD="760002101361" PROF="0136" level="1.2" name="Гинекологическое"/>
+			<department_mo register_number="760002" IDOTD="760002200971" PROF="0097" level="1" name="Терапевтическое (п. Волга)"/>
+			<department_mo register_number="760002" IDOTD="760002200972" PROF="0097" level="1" name="Терапевтическое (п. Октябрь)"/>
+		</fed_department_mo>
+		<SMOs name="2.Справочник исполнителей платежа (СМО)">
+			<YaroslavlRegionSMOs>
+				<YaroslavlRegionSMO code_en="R" code_ru="Р" ogrn="1025004642519" name="Ярославский филиал  ООО «Страховая медицинская компания РЕСО-Мед»" surname_d="Жукова" name_d="Ольга" patronymic_d="Николаевна"/>
+				<YaroslavlRegionSMO code_en="G" code_ru="Г" ogrn="1027739008440" name="Ярославский филиал АО &quot;Страховая компания &quot;СОГАЗ-Мед&quot;" surname_d="Щеголев" name_d="Александр" patronymic_d="Владимирович"/>
+				<YaroslavlRegionSMO code_en="M" code_ru="М" ogrn="1027806865481" name="Филиал ООО &quot;РГС-Медицина&quot;-&quot;Росгосстрах-Ярославль-Медицина&quot;" surname_d="Желткевич" name_d="Игорь" patronymic_d="Сергеевич"/>
+				<YaroslavlRegionSMO code_en="B" code_ru="Б" ogrn="1045207042528" name="Филиал  ООО «Страховая компания «Ингосстрах-М» в г. Ярославль" surname_d="Осипенко" name_d="Юлия" patronymic_d="Владимировна"/>
+				<YaroslavlRegionSMO code_en="F" code_ru="Ф" ogrn="1027600839639" name="Территориальный фонд обязательного медицинского страхования Ярославской области" surname_d="Пушков" name_d="Михаил" patronymic_d="Александрович"/>
+				<YaroslavlRegionSMO code_en="N" code_ru="Н" ogrn="1027600839699" name="Территориальный фонд обязательного медицинского страхования Ярославской области 2" surname_d="Пушков" name_d="Михаил" patronymic_d="Александрович"/>
+			</YaroslavlRegionSMOs>
+			<OtherTerritoriesSMOs>
+				<OtherTerritoriesSMO code_territories="1184" ogrn="1027739449913" name="ФИЛИАЛ ЗАКРЫТОГО АКЦИОНЕРНОГО ОБЩЕСТВА &quot;СТРАХОВАЯ ГРУППА &quot;СПАССКИЕ ВОРОТА-М&quot; В РЕСПУБЛИКЕ АЛТАЙ"/>
+				<OtherTerritoriesSMO code_territories="1107" ogrn="1045207042528" name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;СТРАХОВАЯ КОМПАНИЯ &quot;ИНГОССТРАХ-М&quot;"/>
+				<OtherTerritoriesSMO code_territories="1108" ogrn="1027739449913" name="ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;СТРАХОВАЯ ГРУППА &quot;СПАССКИЕ ВОРОТА-М&quot;ФИЛИАЛ &quot;ХАБАРОВСКИЙ&quot;"/>
+				<OtherTerritoriesSMO code_territories="1108" ogrn="1027806865481" name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РГС-МЕДИЦИНА&quot;-&quot;РОСГОССТРАХ-ХАБАРОВСК-МЕДИЦИНА&quot;"/>
+				<OtherTerritoriesSMO code_territories="1108" ogrn="1022701131760" name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;СТРАХОВАЯ КОМПАНИЯ&quot;ДАЛЬ-РОСМЕД&quot;"/>
+				<OtherTerritoriesSMO code_territories="1108" ogrn="1027739051460" name="ФИЛИАЛ &quot;ХАБАРОВСК-РОСНО-МС&quot;ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;РОСНО-МС&quot;"/>
+				<OtherTerritoriesSMO code_territories="1110" ogrn="1102801012820" name="ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;МЕДИЦИНСКАЯ СТРАХОВАЯ КОМПАНИЯ &quot;ДАЛЬМЕДСТРАХ&quot;"/>
+				<OtherTerritoriesSMO code_territories="1119" ogrn="1023501265402" name="ОАО МСК &quot;ШЕКСНА-М&quot;"/>
+				<OtherTerritoriesSMO code_territories="1120" ogrn="1027739008440" name="ВОРОНЕЖСКИЙ ФИЛИАЛ ОТКРЫТОГО АКЦИОНЕРНОГО ОБЩЕСТВА &quot;СТРАХОВАЯ КОМПАНИЯ &quot;СОГАЗ-МЕД&quot;"/>
+				<OtherTerritoriesSMO code_territories="1122" ogrn="1025004642519" name="НИЖЕГОРОДСКИЙ ФИЛИАЛ ОБЩЕСТВА С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;СТРАХОВАЯ МЕДИЦИНСКАЯ КОМПАНИЯ РЕСО-МЕД&quot;"/>
+				<OtherTerritoriesSMO code_territories="1122" ogrn="1028601441274" name="ФИЛИАЛ ЗАКРЫТОГО АКЦИОНЕРНОГО ОБЩЕСТВА &quot;КАПИТАЛ МЕДИЦИНСКОЕ СТРАХОВАНИЕ&quot; Г.Н.НОВГОРОД"/>
+				<OtherTerritoriesSMO code_territories="1122" ogrn="1045207042528" name="ФИЛИАЛ ОБЩЕСТВА С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;СТРАХОВАЯ КОМПАНИЯ &quot;ИНГОССТРАХ-М&quot; В Г. Н.НОВГОРОДЕ"/>
+				<OtherTerritoriesSMO code_territories="1124" ogrn="1027739008440" name="ИВАНОВСКИЙ ФИЛИАЛ ОТКРЫТОГО АКЦИОНЕРНОГО ОБЩЕСТВА &quot;СТРАХОВАЯ КОМПАНИЯ &quot;СОГАЗ-МЕД&quot;"/>
+				<OtherTerritoriesSMO code_territories="1171" ogrn="1027200857430" name="ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;МЕДИЦИНСКАЯ СТРАХОВАЯ КОМПАНИЯ &quot;САНА&quot;"/>
+			</OtherTerritoriesSMOs>
+		</SMOs>
+		<DocumentTypes name="3.Справочник типов документов">
+			<DocumentType code="1" name="Паспорт РФ" series_template="9999" number_template="9999990"/>
+			<DocumentType code="2" name="Свидетельство о рождении" series_template="99ББ" number_template="999999"/>
+			<DocumentType code="5" name="Паспорт СССР" series_template="99-ББ" number_template="999999"/>
+			<DocumentType code="10" name="Иностранный паспорт" series_template="SSSSSSSS" number_template="SSSSSSSSSSSS"/>
+			<DocumentType code="11" name="Свидетельство беженца" series_template="SSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="12" name="Вид на жительство" series_template="SSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="13" name="Удостоверение беженца" series_template="SSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="14" name="Временное удостоверение" series_template="SSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="21" name="Документ иностранного гражданина" series_template="SSSSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="22" name="Документ лица без гражданства" series_template="SSSSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="23" name="Разрешение на временное проживание" series_template="SSSSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="24" name="Свидетельство о рождении, выданное не в РФ" series_template="SSSSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="25" name="Свидетельство о предоставлении временного убежища" series_template="SS" number_template="SSSSSSS"/>
+			<DocumentType code="26" name="Cотрудник евразийской экономической комиссии" series_template="S" number_template="SSSSSS"/>
+			<DocumentType code="27" name="Копия жалобы о лишении ст.беженца" series_template="S" number_template="000000000009"/>
+			<DocumentType code="28" name="Иной документ,соответствующий свидетельству о предоставлении убежища на территории РФ" series_template="SSSSSSSSSS" number_template="900000000000"/>
+			<DocumentType code="29" name="Трудовой договор трудящегося государства-члена ЕАЭС" series_template="SSSSSSSSSS" number_template="900000000000"/>
+		</DocumentTypes>
+		<SocialCategories name="4.Cоциальные категории пациента">
+			<SocialCategory code="1" name="руководители и специалисты высшего уровня квалификации"/>
+			<SocialCategory code="2" name="прочие специалисты"/>
+			<SocialCategory code="3" name="квалифицированные рабочие"/>
+			<SocialCategory code="4" name="неквалифицированные рабочие"/>
+			<SocialCategory code="5" name="занятые на военной службе"/>
+			<SocialCategory code="6" name="пенсионеры"/>
+			<SocialCategory code="7" name="дети ДДУ"/>
+			<SocialCategory code="8" name="школьники"/>
+			<SocialCategory code="9" name="учащиеся ССУ и ВУЗов"/>
+			<SocialCategory code="10" name="учащиеся ГПТУ"/>
+			<SocialCategory code="11" name="неорганизованные дети"/>
+			<SocialCategory code="12" name="работающие в личном подсобном хозяйстве"/>
+			<SocialCategory code="13" name="безработные"/>
+			<SocialCategory code="14" name="члены семей военнослужащих"/>
+			<SocialCategory code="15" name="домохозяйки"/>
+			<SocialCategory code="16" name="беженцы"/>
+			<SocialCategory code="17" name="БОМЖи"/>
+			<SocialCategory code="18" name="прочие"/>
+		</SocialCategories>
+		<vg name="86 Формы оказания медицинской помощи">
+			<vg code="0" name="планово" label_hospital="1" label_day_hospital="1" label_smp="0"/>
+			<vg code="1" name="экстренно" label_hospital="1" label_day_hospital="0" label_smp="1"/>
+			<vg code="2" name="неотложно " label_hospital="0" label_day_hospital="0" label_smp="1"/>
+		</vg>
+	</body>
+</package>

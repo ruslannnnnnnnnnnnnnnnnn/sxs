@@ -1,0 +1,5 @@
+ввод
+ --action=keepone --filein=nsi.xml --node=LPU --fileout=out.xml
+ --action=reduce --filein=C:\Users\Руслан\source\repos\sxs\sxs\bin\Debug\nsi.xml --maxnodes=2 --fileout=out.xml
+ 
+break - выход из программы

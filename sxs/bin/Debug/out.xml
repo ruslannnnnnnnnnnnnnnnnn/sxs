@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type='text/xsl' href='NSIXML.xsl'?>
+<package>
+	<body version="НСИ 1.62" protocol="full" begin_date="01.11.2017" telcreator="4852321087" creation_date="01.11.2017">
+		<SMOs name="2.Справочник исполнителей платежа (СМО)">
+			<YaroslavlRegionSMOs>
+				<YaroslavlRegionSMO code_en="R" code_ru="Р" ogrn="1025004642519" name="Ярославский филиал  ООО «Страховая медицинская компания РЕСО-Мед»" surname_d="Жукова" name_d="Ольга" patronymic_d="Николаевна" />
+				<YaroslavlRegionSMO code_en="G" code_ru="Г" ogrn="1027739008440" name="Ярославский филиал АО &quot;Страховая компания &quot;СОГАЗ-Мед&quot;" surname_d="Щеголев" name_d="Александр" patronymic_d="Владимирович" />
+				<YaroslavlRegionSMO code_en="M" code_ru="М" ogrn="1027806865481" name="Филиал ООО &quot;РГС-Медицина&quot;-&quot;Росгосстрах-Ярославль-Медицина&quot;" surname_d="Желткевич" name_d="Игорь" patronymic_d="Сергеевич" />
+				<YaroslavlRegionSMO code_en="B" code_ru="Б" ogrn="1045207042528" name="Филиал  ООО «Страховая компания «Ингосстрах-М» в г. Ярославль" surname_d="Осипенко" name_d="Юлия" patronymic_d="Владимировна" />
+				<YaroslavlRegionSMO code_en="F" code_ru="Ф" ogrn="1027600839639" name="Территориальный фонд обязательного медицинского страхования Ярославской области" surname_d="Пушков" name_d="Михаил" patronymic_d="Александрович" />
+				<YaroslavlRegionSMO code_en="N" code_ru="Н" ogrn="1027600839699" name="Территориальный фонд обязательного медицинского страхования Ярославской области 2" surname_d="Пушков" name_d="Михаил" patronymic_d="Александрович" />
+			</YaroslavlRegionSMOs>
+		</SMOs>
+	</body>
+</package>

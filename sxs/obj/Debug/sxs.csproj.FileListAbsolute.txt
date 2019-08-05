@@ -1,0 +1,7 @@
+C:\Users\Руслан\source\repos\sxs\sxs\bin\Debug\sxs.exe.config
+C:\Users\Руслан\source\repos\sxs\sxs\bin\Debug\sxs.exe
+C:\Users\Руслан\source\repos\sxs\sxs\bin\Debug\sxs.pdb
+C:\Users\Руслан\source\repos\sxs\sxs\obj\Debug\sxs.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\source\repos\sxs\sxs\obj\Debug\sxs.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\sxs\sxs\obj\Debug\sxs.exe
+C:\Users\Руслан\source\repos\sxs\sxs\obj\Debug\sxs.pdb
